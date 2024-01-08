@@ -50,7 +50,7 @@ I ❤️:
 
 ## Some of my projects!
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaimeflorian27&repo=ReferenceImporter)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaimeflorian27&repo=DollyZoomNode)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaimeflorian27&repo=neovim)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaimeflorian27&repo=rez-venv)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaimeflorian27&repo=reference-importer)](https://github.com/JaimeFlorian27/reference-importer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaimeflorian27&repo=dolly-zoom-node)](https://github.com/JaimeFlorian27/dolly-zoom-node)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaimeflorian27&repo=neovim)](https://github.com/JaimeFlorian27/neovim)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaimeflorian27&repo=rez-venv)](https://github.com/JaimeFlorian27/rez-venv)
